@@ -2,7 +2,7 @@
 
 # Zaman Serileri Özelinde Derin Öğrenme Modellerinin Karşılaştırılması
 
-Bu proje, Individual Household Electric Power Consumption veri kümesi üzerinde farklı derin öğrenme modellerinin eğitimini ve sonrasında bu modelin kullanımını içerir.
+Bu proje, Amazon Review veri kümesi üzerinde farklı derin öğrenme modellerinin eğitimini ve sonrasında bu modelin kullanımını içerir.
 
  **Gereksinimler**
    - Python 3.9
